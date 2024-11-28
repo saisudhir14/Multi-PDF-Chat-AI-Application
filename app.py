@@ -49,7 +49,7 @@ def main():
                 text_chunks = get_the_text_in_chunks(read_raw_text)
                 st.write(text_chunks)
                 
-                #creating vector store // as a database            
+                #creating vector store // as a database  //          
 
 if __name__ == '__main__':
     main()
